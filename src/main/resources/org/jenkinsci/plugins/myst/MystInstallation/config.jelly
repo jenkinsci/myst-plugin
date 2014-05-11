@@ -7,7 +7,7 @@
     <f:textbox />
   </f:entry>
 
-  <f:entry title="MYST_HOME" field="home">
+  <f:entry title="MYST_HOME" field="home" description="This field must be left empty when &apos;Install Automatically&apos; is enabled">
     <f:textbox />
   </f:entry>
 </j:jelly>
