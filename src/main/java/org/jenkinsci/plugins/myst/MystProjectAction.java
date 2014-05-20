@@ -18,7 +18,7 @@ public final class MystProjectAction implements ProminentProjectAction {
   }
 
   public String getIconFileName() {
-	return "/plugin/myst-jenkins-plugin/images/myst.png";
+	return "/plugin/myst-plugin/images/myst.png";
   }
 
   public String getDisplayName() {
